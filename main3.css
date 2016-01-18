@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:content-box;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.magenta {
+	background-color: #ee3e64;
+}
+.blue {
+	background-color: #44accf;
+	left: 200px;
+}
+.green {
+	background-color: #b7d84b;
+}

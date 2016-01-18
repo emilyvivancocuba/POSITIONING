@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:content-box;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+}
+.magenta {
+	background-color: #ee3e64;
+}
+.blue {
+	background-color: #44accf;
+}
+.green {
+	background-color: #b7d84b;
+}
